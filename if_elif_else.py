@@ -29,4 +29,5 @@ elif velocidade >=30:
 elif velocidade>=5:
     print('o veiculo é uma bicicleta')
 else:
+
     print('sem veiculo')
