@@ -1,4 +1,4 @@
-# Logica de Programacao
+# Logica de Programação
 Esse repositório guarda as atividades realizadas durante as aulas de **lógica de programação** do curso ***Técnico de Desenvolvimento Web e Mobile***. 
 
 
