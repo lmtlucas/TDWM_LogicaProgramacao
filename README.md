@@ -3,10 +3,13 @@ Esse repositório guarda as atividades realizadas durante as aulas de **lógica 
 
 
 ### Objetivo: 
-Servir de guia para as principais atividades de lógica de programação desenvolvidas ao longo do curso
+Registrar o aprendizado de lógica de programação.
+
+### Funcionalidade:
+Servir de guia para as principais atividades de lógica de programação desenvolvidas ao longo do curso.
 
 ### Pré-requisitos:
-As atividades foram desenvolvidas em Python
+As atividades foram desenvolvidas em Python.
 
 ## Guia de Atividades:
 
