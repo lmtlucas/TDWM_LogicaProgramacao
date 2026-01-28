@@ -9,7 +9,7 @@ Registrar o aprendizado de lógica de programação.
 Servir de guia para as principais atividades de lógica de programação desenvolvidas ao longo do curso.
 
 ### Pré-requisitos:
-As atividades foram desenvolvidas em Python.
+As atividades foram desenvolvidas em Python 3.0.
 
 ## Guia de Atividades:
 
