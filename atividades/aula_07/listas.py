@@ -29,6 +29,10 @@ print(frutas)
 frutas.sort()
 print(frutas)
 
+# .extend adiciona varios elementos no final da fila aumentando o numero de indices de acordo com o numero de elementos inseridos
+frutas.extend(['abacate', 'uvaia']) 
+print(frutas)
+
 # .insert adiciona elemento na posição desejada (posição, valor)
 frutas.insert(0, 'manga') # posição 0
 print(frutas)
@@ -46,5 +50,6 @@ maior_fruta = max(frutas) # criando nova variavel
 print(maior_fruta)
 
 # ou
+
 
 print(min(numeros)) # modificando
